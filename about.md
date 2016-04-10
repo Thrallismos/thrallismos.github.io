@@ -12,4 +12,4 @@ It is the idea that came up to me because of my school project.
 
 ### Contact me if whatever
 
-[janharnusek@seznam.cz](mailto:janharnusek@seznam.cz)
+[Clic'n'mail!](mailto:janharnusek@seznam.cz)
